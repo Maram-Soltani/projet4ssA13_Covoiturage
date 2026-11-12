@@ -23,6 +23,11 @@ Plateforme web de covoiturage permettant de mettre en relation les conducteurs e
 6. Réclamation
 
 ## Équipe
-- Nom et prénom des membres du groupe
-- Classe : 4XXX
-- Groupe : GX
+- Nom et prénom des membres du groupe:
+  -Maram Soltani
+  -Eya Bayar
+  -Said Doghri
+  -Nour
+  -Waad 
+- Classe : 4SS13
+- Groupe : G2
